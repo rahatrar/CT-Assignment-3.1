@@ -73,7 +73,6 @@ width: 35px;
 .menu ul li{
   list-style: none;
   display: inline-block;
-  border-right: 5px solid rgb(226, 226, 226);
 }
 
 .menu ul li a{
